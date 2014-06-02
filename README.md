@@ -9,7 +9,7 @@ __{swagger-express}__ is a simple and clean solution to integrate swagger with e
 
 ## Installation
 
-    $ npm install -g swagger-express
+    $ sudo npm install git://github.com/Startappz/swagger-express.git
 
 ## Quick Start
 
